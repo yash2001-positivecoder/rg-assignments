@@ -1,4 +1,7 @@
 # RG Assignments
+
+* Week 1 - Reviewed & approved
+  
 ## 📄 Google Doc
 
 For a detailed explanation of the tasks performed, please refer to the following Google Doc:
